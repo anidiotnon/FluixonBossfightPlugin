@@ -1,0 +1,10 @@
+name: FluixonBossPlugin
+version: '1.0-SNAPSHOT'
+main: anidiotnon.fluix.fluixonBoss.FluixonBossPlugin
+api-version: '1.21'
+commands:
+  Fluixon:
+    description: "Starts the fluixon bossfight..."
+    usage: "/Fluixon"
+    permission: ""
+    permission-message: You must be an operator to use this command!
